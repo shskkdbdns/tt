@@ -15,7 +15,7 @@ import os
 bot = telebot.TeleBot('7921815407:AAGfc_MBjUjS7t3vrHo7d-dkpG1WcLyHyEs')
 
 # @NOOB_AM GRP # Admin user IDs
-admin_id = ["`1257888659`"]
+admin_id = ["1257888659"]
 
 # @NOOB_AM GRP # File to store allowed user IDs
 USER_FILE = "users.txt"
